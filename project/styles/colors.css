@@ -1,0 +1,13 @@
+.colormain-text {
+    color: #a7996e;
+
+}
+
+.btn {
+    color: white;
+    background-color: #a7996e;;
+}
+
+.btn:hover {
+    background-color: #8f875b;
+}

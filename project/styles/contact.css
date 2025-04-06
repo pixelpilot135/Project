@@ -1,0 +1,56 @@
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+}
+
+h1, h3 {
+    font-family: 'Roboto', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: #4e4c56;
+}
+
+a:hover {
+    color: #a7996e;
+}
+
+.colormain-text {
+    color: #a7996e;
+}
+
+.color-text {
+    color: #4e4c56;
+}
+
+.btn {
+    color: white;
+    background-color: #a7996e;
+    border-radius: 25px;
+    font-size: 16px;
+    padding: 12px 25px;
+    transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+    background-color: #8f875b;
+}
+
+form {
+    background-color: #f7f7f7;
+    border-radius: 10px;
+    padding: 30px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 40px;
+}
+
+.info {
+    background-color: #a7996e;
+    color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+

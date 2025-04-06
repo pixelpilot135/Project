@@ -1,0 +1,41 @@
+.header {
+    padding: 50px 0;
+    text-align: center;
+}
+.features {
+    padding: 30px 0;
+}
+.footer {
+    background-color: #a7996e;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.colormain-text {
+    color: #a7996e;
+
+}
+
+.color-text {
+    color: #4e4c56;
+}
+
+.btn {
+    color: white;
+    background-color: #a7996e;;
+}
+
+.btn:hover {
+    background-color: #8f875b;
+}
+
+
+.card-text {
+    color: #4e4c56;
+}
+
+
+.header-color {
+    color: #a7996e;
+}
